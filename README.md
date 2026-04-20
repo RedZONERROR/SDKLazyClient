@@ -1,6 +1,6 @@
 # SDKLazyClient
 
-Secure authentication and license management system with encrypted data distribution.
+Secure authentication and license management system with encrypted data distribution via global CDN.
 
 ## Features
 
